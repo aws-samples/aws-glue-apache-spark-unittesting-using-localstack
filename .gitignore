@@ -1,0 +1,14 @@
+.DS_Store
+.output
+.pytest_cache
+.venv
+venv/
+Pipfile
+spark-warehouse
+htmlcov
+.coverage
+.coverage.*
+.idea
+.cache
+*.cover
+__pycache__/
